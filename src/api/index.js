@@ -6,7 +6,7 @@ app.use(express.json());
 
 app.get('/api/v1', (req, res) => res.json({
     nameApi:'PokerDex Plus API', 
-    status:'API Iniciada...'
+    status:'API Iniciada!'
 }));
 
 app.listen(port, () =>{
