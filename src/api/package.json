@@ -1,0 +1,11 @@
+{
+  "name": "pokerdexplus_api",
+  "version": "1.0.0",
+  "description": "API do projeto pokerdexplus utilizando nodejs e express ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eridan Vilasboas",
+  "license": "ISC"
+}
